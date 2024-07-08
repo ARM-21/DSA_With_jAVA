@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algortihms/Algortihms.iml" filepath="$PROJECT_DIR$/Algortihms/Algortihms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA_with_JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA_with_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_lIst/Linked_lIst.iml" filepath="$PROJECT_DIR$/Linked_lIst/Linked_lIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions_For_Practice/Questions_For_Practice.iml" filepath="$PROJECT_DIR$/Questions_For_Practice/Questions_For_Practice.iml" />
+    </modules>
+  </component>
+</project>
